@@ -1,1 +1,1 @@
-[![niko's git stats](https://github-readme-stats.vercel.app/api?username=nikonico)](https://github.com/anuraghazra/github-readme-stats)
+[![niko's git stats](https://github-readme-stats.vercel.app/api?username=nikonico)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=nikonico))
