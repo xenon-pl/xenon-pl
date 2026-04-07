@@ -1,1 +1,1 @@
-[![niko's GitHub stats](https://github-readme-statss-git-main-xenon-pls-projects.vercel.app/api/top-langs?username=xenon-pl)](https://github-readme-statss-git-main-xenon-pls-projects.vercel.app/api/top-langs?username=xenon-pl)
+[![niko's GitHub stats](https://github-readme-statss-git-main-xenon-pls-projects.vercel.app/api/top-langs?username=xenon-pl&theme=dark)](https://github-readme-statss-git-main-xenon-pls-projects.vercel.app/api/top-langs?username=xenon-pl&theme=dark)
